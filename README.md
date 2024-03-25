@@ -1,53 +1,44 @@
-![MagicMirror²: The open source modular smart mirror platform. ](.github/header.png)
-
-<p style="text-align: center">
-  <a href="https://choosealicense.com/licenses/mit">
-		<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/MagicMirrorOrg/MagicMirror/blob/master/.github/header.png"><img src="/MagicMirrorOrg/MagicMirror/raw/master/.github/header.png" alt="MagicMirror²：开源模块化智能镜子平台。" style="max-width: 100%;"></a></p>
+<p dir="auto">
+  <a href="https://choosealicense.com/licenses/mit" rel="nofollow">
+		<img src="https://camo.githubusercontent.com/2bb6ac78e5a9f4f688a6a066cc71b62012101802fcdb478e6e4c6b6ec75dc694/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667" alt="执照" data-canonical-src="https://img.shields.io/badge/license-MIT-blue.svg" style="max-width: 100%;">
 	</a>
-	<img src="https://img.shields.io/github/actions/workflow/status/michmich/magicmirror/automated-tests.yaml" alt="GitHub Actions">
-	<img src="https://img.shields.io/github/checks-status/michmich/magicmirror/master" alt="Build Status">
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bb3f644a70a2ab30567eef575c19a3defd25e955d5db33fb169e7866cf358663/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6d6963686d6963682f6d616769636d6972726f722f6175746f6d617465642d74657374732e79616d6c"><img src="https://camo.githubusercontent.com/bb3f644a70a2ab30567eef575c19a3defd25e955d5db33fb169e7866cf358663/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6d6963686d6963682f6d616769636d6972726f722f6175746f6d617465642d74657374732e79616d6c" alt="GitHub 操作" data-canonical-src="https://img.shields.io/github/actions/workflow/status/michmich/magicmirror/automated-tests.yaml" style="max-width: 100%;"></a>
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dc181ca4d4ca9023eabf5ad2a5d3c60bdb06a63b5c2f0bb7cb450bd574cd6aba/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636865636b732d7374617475732f6d6963686d6963682f6d616769636d6972726f722f6d6173746572"><img src="https://camo.githubusercontent.com/dc181ca4d4ca9023eabf5ad2a5d3c60bdb06a63b5c2f0bb7cb450bd574cd6aba/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636865636b732d7374617475732f6d6963686d6963682f6d616769636d6972726f722f6d6173746572" alt="构建状态" data-canonical-src="https://img.shields.io/github/checks-status/michmich/magicmirror/master" style="max-width: 100%;"></a>
 	<a href="https://github.com/MichMich/MagicMirror">
-		<img src="https://img.shields.io/github/stars/michmich/magicmirror?style=social">
+		<img src="https://camo.githubusercontent.com/6ca21fe8314db3d019cbc6284bdc66a59b195b537b5022bcb4123e5627e72793/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6d6963686d6963682f6d616769636d6972726f723f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/stars/michmich/magicmirror?style=social" style="max-width: 100%;">
 	</a>
 </p>
-
-**MagicMirror²** is an open source modular smart mirror platform. With a growing list of installable modules, the **MagicMirror²** allows you to convert your hallway or bathroom mirror into your personal assistant. **MagicMirror²** is built by the creator of [the original MagicMirror](https://michaelteeuw.nl/tagged/magicmirror) with the incredible help of a [growing community of contributors](https://github.com/MichMich/MagicMirror/graphs/contributors).
-
-MagicMirror² focuses on a modular plugin system and uses [Electron](https://www.electronjs.org/) as an application wrapper. So no more web server or browser installs necessary!
-
-## Documentation
-
-For the full documentation including **[installation instructions](https://docs.magicmirror.builders/getting-started/installation.html)**, please visit our dedicated documentation website: [https://docs.magicmirror.builders](https://docs.magicmirror.builders).
-
-## Links
-
-- Website: [https://magicmirror.builders](https://magicmirror.builders)
-- Documentation: [https://docs.magicmirror.builders](https://docs.magicmirror.builders)
-- Forum: [https://forum.magicmirror.builders](https://forum.magicmirror.builders)
-  - Technical discussions: https://forum.magicmirror.builders/category/11/core-system
-- Discord: [https://discord.gg/J5BAtvx](https://discord.gg/J5BAtvx)
-- Blog: [https://michaelteeuw.nl/tagged/magicmirror](https://michaelteeuw.nl/tagged/magicmirror)
-- Donations: [https://magicmirror.builders/#donate](https://magicmirror.builders/#donate)
-
-## Contributing Guidelines
-
-Contributions of all kinds are welcome, not only in the form of code but also with regards to
-
-- bug reports
-- documentation
-- translations
-
-For the full contribution guidelines, check out: [https://docs.magicmirror.builders/about/contributing.html](https://docs.magicmirror.builders/about/contributing.html)
-
-## Enjoying MagicMirror? Consider a donation!
-
-MagicMirror² is opensource and free. That doesn't mean we don't need any money.
-
-Please consider a donation to help us cover the ongoing costs like webservers and email services.
-If we receive enough donations we might even be able to free up some working hours and spend some extra time improving the MagicMirror² core.
-
-To donate, please follow [this](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G5D8E9MR5DTD2&source=url) link.
-
-<p style="text-align: center">
-	<a href="https://forum.magicmirror.builders/topic/728/magicmirror-is-voted-number-1-in-the-magpi-top-50"><img src="https://magicmirror.builders/img/magpi-best-watermark-custom.png" width="150" alt="MagPi Top 50"></a>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MagicMirror²</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一个开源模块化智能镜子平台。</font><font style="vertical-align: inherit;">随着可安装模块的不断增加，</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MagicMirror²</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可以让您将走廊或浴室的镜子变成您的个人助理。</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MagicMirror²是由</font></font></strong><font style="vertical-align: inherit;"></font><a href="https://michaelteeuw.nl/tagged/magicmirror" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">原始 MagicMirror</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的创建者</font></font><a href="https://github.com/MichMich/MagicMirror/graphs/contributors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在不断壮大的贡献者社区的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大力帮助下构建的</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MagicMirror² 专注于模块化插件系统，并使用</font></font><a href="https://www.electronjs.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Electron</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作为应用程序包装器。</font><font style="vertical-align: inherit;">因此不再需要安装网络服务器或浏览器！</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h2><a id="user-content-documentation" class="anchor" aria-label="永久链接：文档" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><strong><a href="https://docs.magicmirror.builders/getting-started/installation.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关包括安装说明</font></font></a></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在内的完整文档</font><font style="vertical-align: inherit;">，请访问我们的专用文档网站： https: </font></font><a href="https://docs.magicmirror.builders" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//docs.magicmirror.builders</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接</font></font></h2><a id="user-content-links" class="anchor" aria-label="永久链接： 链接" href="#links"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站： https: </font></font><a href="https://magicmirror.builders" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//magicmirror.builders</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档： https: </font></font><a href="https://docs.magicmirror.builders" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//docs.magicmirror.builders</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论坛： https: </font></font><a href="https://forum.magicmirror.builders" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//forum.magicmirror.builders</font></font></a>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">技术讨论：</font></font><a href="https://forum.magicmirror.builders/category/11/core-system" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https ://forum.magicmirror.builders/category/11/core-system</font></font></a></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不和谐： https: </font></font><a href="https://discord.gg/J5BAtvx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//discord.gg/J5BAtvx</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客： https: </font></font><a href="https://michaelteeuw.nl/tagged/magicmirror" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//michaelteeuw.nl/tagged/magicmirror</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">捐款：</font></font><a href="https://magicmirror.builders/#donate" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https ://magicmirror.builders/#donate</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></h2><a id="user-content-contributing-guidelines" class="anchor" aria-label="永久链接：贡献指南" href="#contributing-guidelines"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欢迎各种贡献，不仅是代码形式，还包括</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">错误报告</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">翻译</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关完整的贡献指南，请查看： https: </font></font><a href="https://docs.magicmirror.builders/about/contributing.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//docs.magicmirror.builders/about/contributing.html</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">喜欢魔镜吗？</font><font style="vertical-align: inherit;">考虑捐赠！</font></font></h2><a id="user-content-enjoying-magicmirror-consider-a-donation" class="anchor" aria-label="永久链接：喜欢 MagicMirror 吗？ 考虑捐赠！" href="#enjoying-magicmirror-consider-a-donation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MagicMirror² 是开源且免费的。</font><font style="vertical-align: inherit;">这并不意味着我们不需要任何钱。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请考虑捐款，以帮助我们支付网络服务器和电子邮件服务等持续费用。</font><font style="vertical-align: inherit;">如果我们收到足够的捐款，我们甚至可以腾出一些工作时间并花一些额外的时间改进 MagicMirror² 核心。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要捐赠，请点击</font></font><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=G5D8E9MR5DTD2&amp;source=url" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接。</font></font></p>
+<p dir="auto">
+	<a href="https://forum.magicmirror.builders/topic/728/magicmirror-is-voted-number-1-in-the-magpi-top-50" rel="nofollow"><img src="https://camo.githubusercontent.com/a3ac32d50a3fc011f3de9cf99eab23a3f1645e575052295fbdcf97c3e69a672a/68747470733a2f2f6d616769636d6972726f722e6275696c646572732f696d672f6d616770692d626573742d77617465726d61726b2d637573746f6d2e706e67" width="150" alt="MagPi 前 50 名" data-canonical-src="https://magicmirror.builders/img/magpi-best-watermark-custom.png" style="max-width: 100%;"></a>
 </p>
+</article></div>
